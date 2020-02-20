@@ -1,5 +1,5 @@
-# LabCalender
-Аллоды онлайн. Allods online. LabCalender.
+# LabCalendar
+Аллоды онлайн. Allods online. LabCalendar.
 
 Дополнение для игры Аллоды онлайн.
 
