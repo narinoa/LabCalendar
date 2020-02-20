@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+  <AutoStart>true</AutoStart>
+  <localizedNameFileRef href="name.txt"/>
+  <localizedDescFileRef href="desc.txt"/>  
+  <Forms>
+    <Item>
+      <Form href="Widgets/MainForm.(WidgetForm).xdb#xpointer(/WidgetForm)"/>
+      <Id>Main</Id>
+    </Item>
+  </Forms>
+  <textures href="Widgets/Textures/Textures.(UIRelatedTextures).xdb#xpointer(/UIRelatedTextures)"/>
+  <MainFormId>Main</MainFormId>
+  <Name>LabCalendar</Name>
+  <ScriptFileRefs>
+	<Item href="/Mods/SampleCommon/SampleAddonBase.lua"/>
+	<Item href="Scripts/config.txt"/>
+	<Item href="Scripts/LibDnD.lua"/>
+	<Item href="Scripts/Localization.lua"/> 
+	<Item href="Scripts/Main.lua"/>
+  </ScriptFileRefs>
+  <texts href=""/>
+  <visObjects href=""/>
+</UIAddon>
